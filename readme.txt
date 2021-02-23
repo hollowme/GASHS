@@ -13,7 +13,7 @@ This folder contains data for the three task graph applications. The format of e
 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
 
-27.0 18.0 24.0 12.0 //tasks on m processors and FPGA
+27.0 18.0 24.0 12.0 //the computing time of tasks on m processors and FPGA
 15.0 15.0 16.0 10.0 
 22.0 27.0 24.0 14.0 
 15.0 18.0 12.0 8.0 
